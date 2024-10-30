@@ -1,0 +1,7 @@
+E:\Projects\One_dimensionalArray\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Projects\One_dimensionalArray\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Projects\One_dimensionalArray\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Projects\One_dimensionalArray\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Projects\One_dimensionalArray\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Projects\One_dimensionalArray\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Projects\One_dimensionalArray\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
